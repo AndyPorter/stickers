@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 602 296" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <g id="Artboard1" transform="matrix(0.717845,0,0,1.04214,0,0)">
+        <rect x="0" y="0" width="838.583" height="283.465" style="fill:none;"/>
+        <g id="background">
+            <rect x="0" y="0" width="838.583" height="283.465" style="fill:rgb(0,136,207);"/>
+        </g>
+        <g transform="matrix(1.16508,0,0,0.802529,-53.9854,64.6165)">
+            <g id="message">
+                <text x="77.656px" y="216.069px" style="font-family:'HelveticaNeue-Medium', 'Helvetica Neue', sans-serif;font-weight:500;font-size:99.639px;fill:white;">#lear<tspan x="304.735px 361.928px " y="216.069px 216.069px ">nb</tspan>ydoing</text>
+            </g>
+        </g>
+    </g>
+</svg>
